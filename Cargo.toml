@@ -1,0 +1,14 @@
+[package]
+name = "epistle"
+description = "Writing letters to both human and machine"
+authors = ["Gerald Nash (https://hivoltage.xyz)"]
+version = "0.1.0"
+edition = "2021"
+documentation = "https://hivoltage.xyz/Essays/Epistolary-Programs"
+homepage = "https://hivoltage.xyz/Essays/Epistolary-Programs"
+license = "MIT"
+
+[dependencies]
+clap = "4.5.13"
+markdown = "1.0.0-alpha.18"
+regex = "1.10.5"
